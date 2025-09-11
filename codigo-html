@@ -9,11 +9,15 @@
 </head>
 
 <body> 
-<h1> Este é o meu primeiro cabeçalho
+<h1> Bem-vindo a minha página simples
 
 </h1>
 
-<p> Este é o meu primeiro parágrafo </p>
+<p> Esta é uma página de HTML simples </p>
+
+<p> <i> Este texto está no formato itálico </i> . "></div> </p>
+
+<p> Podemos modificar o conteúdo! </p>
 
 </body>
 
