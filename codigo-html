@@ -19,6 +19,23 @@
 
 <p> Podemos modificar o conteúdo! </p>
 
+
+
+-- Criação de tabela simples --
+
+<table>
+    <tr>
+        <td> Smith </td>
+        <td> HTML </td>
+        <td> 9 </td>
+    </tr>
+    <tr>
+        <td> Sunday </td>
+        <td> JavaScript </td>
+        <td> 10 </td>
+    </tr>
+</table>
+
 </body>
 
 </html>
